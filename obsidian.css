@@ -12,7 +12,7 @@
     --font-size-h5:                  20px;
     --font-size-h6:                  19px;
     --font-family-editor:            Avenir, Avenir Next, monospace;
-    --font-family-preview:           var(--font-family-editor);
+    --font-family-preview:           Avenir, Avenir Next, monospace;
     --merlin-color: #db8400;
 }
 
