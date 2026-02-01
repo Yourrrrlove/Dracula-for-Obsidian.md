@@ -1,21 +1,21 @@
-# Dracula for [Obsidian.md](https://obsidian.md)
+# Dracula for [Obsidian.md](https://obsidian.md) (Merlin's Version)
 
-> A dark theme for [Obsidian](https://obisidian.md), compatible to Obsidian V0.11.00
+> A dark theme for [Obsidian](https://obisidian.md), compatible to Obsidian V0.16.00
 
 ![Screenshot](./demo.png)
 
 ## Install
-This theme has been selected as one of the built-in community themes for Obsidian, you can find the newest version in Settings -> Plugins -> Community Themes and apply the theme by simply clicking the "Use" button.
+(this is hacky and should be way easier but I tested the default installation method for non features themes and it didn't work)
 
-If you prefer to manually install it, please follow the steps below:
+1. Download the theme.css file.
 
-1. Download the obsidian.css file.
+2. In Obsidian, install any Plugin you want to replace (like the normal "Dracula for Obsidian")
 
-2. In Obsidian click Settings->Plugins and turn on "Custom CSS".
+3. Navigate to `/[yourvault]/.obsidian/themes/[themename]` (note: `.obsidian` is hidden!)
 
-3. Put the "obsidian.css" in your vault root folder.
+4. Replace the "theme.css" in that folder with the downloaded one.
 
-4. Restart Obsidian.
+5. Restart Obsidian.
 
 
 ## Creator
@@ -24,6 +24,8 @@ This theme is created and maintained by jarodise.
 [Twitter](https://twitter.com/jarodise) / [Instagram](https://www.instagram.com/jarodise)
 
 *The CSS modification of the newest version is based on ["Pisum" by MooddooM](https://github.com/GuangluWu/obsidian-pisum)
+
+*This fork was modified by [allesman](https://allesman.net) to have slightly darker colors and a monospace font
 
 ## License
 
