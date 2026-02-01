@@ -5,14 +5,17 @@
 ![Screenshot](./demo.png)
 
 ## Install
+(this is hacky and should be way easier but I tested the default installation method for non features themes and it didn't work)
 
-1. Download the obsidian.css file.
+1. Download the theme.css file.
 
-2. In Obsidian click Settings->Plugins and turn on "Custom CSS".
+2. In Obsidian, install any Plugin you want to replace (like the normal "Dracula for Obsidian")
 
-3. Put the "obsidian.css" in your vault root folder.
+3. Navigate to `/[yourvault]/.obsidian/themes/[themename]` (note: `.obsidian` is hidden!)
 
-4. Restart Obsidian.
+4. Replace the "theme.css" in that folder with the downloaded one.
+
+5. Restart Obsidian.
 
 
 ## Creator
