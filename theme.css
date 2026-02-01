@@ -336,7 +336,7 @@ img:hover {
 
 /* code blocks in preview */
 pre code {
-  font-family: monaco !important;
+  font-family: Avenir, Avenir Next, monospace !important;
   font-size: var(--font-size-code) !important;
   padding: 6px !important;
   line-height: normal;
