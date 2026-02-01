@@ -1,6 +1,6 @@
-# Dracula for [Obsidian.md](https://obsidian.md)
+# Dracula for [Obsidian.md](https://obsidian.md) (Merlin's Version)
 
-> A dark theme for [Obsidian](https://obisidian.md), compatible to Obsidian V0.11.00
+> A dark theme for [Obsidian](https://obisidian.md), compatible to Obsidian V0.16.00
 
 ![Screenshot](./demo.png)
 
@@ -25,7 +25,7 @@ This theme is created and maintained by jarodise.
 
 *The CSS modification of the newest version is based on ["Pisum" by MooddooM](https://github.com/GuangluWu/obsidian-pisum)
 
-*This fork was modified by [allesman](https://allesman.net) 
+*This fork was modified by [allesman](https://allesman.net) to have slightly darker colors and a monospace font
 
 ## License
 
